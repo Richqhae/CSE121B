@@ -76,19 +76,6 @@ document.getElementById("getTotal").addEventListener('click', function () {
 });
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* ARRAY METHODS - Functional Programming */
 /* Output Source Array */
 let numberArray = Array.from({ length: 13 }, (_, index) => index + 1);
