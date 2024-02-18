@@ -6,7 +6,7 @@
 
 let fullName ="Richard Quaye";
 let currentYear = new Date().getFullYear();
-let profilePicture = "images/richards.jpg";
+let profilePicture = "images/richie.png";
 
 
 
